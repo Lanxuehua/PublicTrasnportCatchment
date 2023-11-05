@@ -24,3 +24,11 @@ Activity centres is one of the Melbourne 2030 strategies for urban growth. Melbo
 ### Methods
 Mesh Block is the smallest geographical units in the Australian Statistical Geography Standard (ASGS), however, the boarder of isochrone map not exactly match with the boarder of mesh block, so percentage of usual resident were used.
 ![image](https://github.com/Lanxuehua/PublicTrasnportCatchment/assets/107735017/225d1299-84c2-4bc0-93e4-98b90e21bf3d)
+
+### About Catchment mapping
+Travel Time were used in the project for isochrones mapping in major city central area, such as Sydeny Central and Melbourne Central.
+For detailed analysis in Melbourne, Remix (https://www.remix.com/) was used for public transport mapping, because some of the bus routes are not recorded in Travel Time. 
+Remix is a collaborative platform for transportation, moving the little Jane in the map, you can create the isochrone map with your desired attributes. 
+The map per below shows 30 minutes public transport catchment area for each activities centers in Metropolitan Melbourne, using Remix and TravelTime respectively.
+The differences revealed the facts that bus routes were missing, and this caused a huge differences in Doncaster area.
+![image](https://github.com/Lanxuehua/PublicTrasnportCatchment/assets/107735017/3437ee5e-b707-4a8f-b75d-cad8c964150a)
