@@ -27,7 +27,7 @@ Activity centres is one of the Melbourne 2030 strategies for urban growth. Melbo
 ![Metropolitan Activity Centre](https://github.com/Lanxuehua/PublicTrasnportCatchment/assets/107735017/f77c28c2-889e-4d63-9e87-f3dc8844c568)
 
 ### Methods
-Mesh Block is the smallest geographical units in the Australian Statistical Geography Standard (ASGS), however, the boarder of isochrone map not exactly match with the boarder of mesh block, so percentage of usual resident were used.
+Mesh Block is the smallest geographical units in the Australian Statistical Geography Standard (ASGS), however, the boarder of isochrone map not exactly match with the boarder of mesh block, percentage of usual resident were used for simplicity, adjustments were made to meet different constraints.
 ![image](https://github.com/Lanxuehua/PublicTrasnportCatchment/assets/107735017/225d1299-84c2-4bc0-93e4-98b90e21bf3d)
 
 ### About Catchment mapping
